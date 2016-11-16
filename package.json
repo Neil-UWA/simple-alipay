@@ -12,6 +12,12 @@
   },
   "keywords": [],
   "author": "",
+  "contributors": [
+    {
+      "name": "Shrek82",
+      "url": "https://github.com/shrek82"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Neil-UWA/simple-alipay/issues"
