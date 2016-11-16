@@ -1,5 +1,5 @@
 'use strict';
-let lib = require('./library');
+let lib = require('./lib/utils');
 let crypto = require('crypto');
 let request = require('request');
 let querystring = require('querystring');
