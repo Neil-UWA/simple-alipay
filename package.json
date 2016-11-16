@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Neil-UWA/simple-alipay#readme",
   "dependencies": {
     "request": "^2.78.0"
+  },
+  "devDependencies": {
+    "sinon": "^1.17.6"
   }
 }

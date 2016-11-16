@@ -3,7 +3,16 @@
 let Alipay = require('../alipay.js');
 let assert = require('assert');
 let sinon = require('sinon');
-let config = require('../../config/main');
+let config = {
+  alipay: {
+    "secret_key": "1111",
+    "partner": "111111",
+    "account_name": "isisisi",
+    "email": "test@uin.cn",
+    "notify_url": "http://google.com",
+    "gateway": "https://mapi.alipay.com/gateway.do"
+  }
+}
 
 describe('Alipay', function() {
 
